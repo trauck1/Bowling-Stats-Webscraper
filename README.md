@@ -76,11 +76,17 @@ Spare statistics (count and opportunities)
 **Example Output**
 
 John Doe:
+
 Game 1 : 156
+
 Game 2 : 189
+
 Game 3 : 142
+
 Average: 162.33
+
 15 strikes out of 28 opportunities
+
 8 spares out of 18 opportunities
 
 **Game Formatting (gameFormatter)**
