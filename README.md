@@ -38,6 +38,31 @@ When prompted, enter:
 The URL of the bowling score sheet
 The player name you want to analyze
 
+**Test Links**
+
+1)
+
+https://www.syncpassport.com//MyScores/ScSession?eid=TBC&sessionIdentifier=bd521892116b4ee78b09dd49b427f87a
+
+names- tim, big vince,kenn, j schmoney
+
+2)
+
+https://www.syncpassport.com//MyScores/ScSession?eid=TBC&sessionIdentifier=57512d0528274bd2af5bff89ebd9be53
+
+names- guillermo, tim, Don
+
+3)
+
+https://www.syncpassport.com//MyScores/ScSession?eid=TBC&sessionIdentifier=4925dac1c53b4ad9a27f561b3cc5c42d
+
+names- tim, mike
+
+4)
+
+https://www.syncpassport.com//MyScores/ScSession?eid=TBC&sessionIdentifier=a6961e3095504c53885fa9572427b698
+
+names- tim, mike
 
 **The script will output:**
 
